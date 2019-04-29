@@ -1,0 +1,17 @@
+#cle;en;fr
+hello;Hello and welcome on CHOKOPOKE;Bonjour et bienvenue sur le CHOKOPOKE
+script_description;This script catches pokemons of the type of your choosing;Ce script vous permet de chercher des pokemons selon leur(s) type(s)
+choosing_type;Choose one or several types from the list below: ;Vous pouvez choisir un ou plusieurs types contenus dans la liste suivante : 
+instruction_type;Separate your choices with spaces: ;Tapez votre choix en séparant les types par un espace : 
+choosing_type_error_1;May the Force be with you.;Choisissez judicieusement.
+choosing_type_error_2;Oh No! Hurry up! They're gonna see us and escape...;Mais vite, car ils vont finir par nous voir et s'enfuir...
+waiting;Looking for your pokemons in progress. Please wait and hold the line...;Recherche de vos pokemons en cours. Veuillez patienter...
+finishing;Damn! It was so hard to catch them all and put them inside the pokeball...;Ouf ! C'était difficile de les trouver et les faire tous entrer dans la pokeball...
+see_first;If you want to see them now, please write [chokopoke] to get the first one:;Si vous voulez voir leurs caractéristiques, tapez [chokopoke] pour faire sortir le premier : 
+see_first_error;Try again;Essayez encore
+see_next;Write bullshit to continue and see the next one:;Tapez n'importe quoi pour faire sortir le suivant : 
+see_next_error;Keep calm and write slowly...;Ce n'est pas suffisamment n'importe quoi !
+empty_pokeball;The pokeball is now empty.;Il n'y a plus de pokemon à examiner dans la pokeball.
+bye;Seeya;A la prochaine
+no_pokemon;We didn't find any pokemon! Come back later;Nous n'avons pas trouvé de pokemon de ce type, dommage ! Repassez plus tard
+trouve;found;trouvé
